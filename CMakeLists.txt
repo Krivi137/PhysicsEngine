@@ -9,6 +9,11 @@ find_package(SFML 3 REQUIRED COMPONENTS Graphics Window System)
 
 add_executable(PhysicsEngine
     src/main.cpp
+    src/Engine/Application.cpp
+)
+
+target_include_directories(PhysicsEngine PRIVATE
+    include
 )
 
 target_link_libraries(PhysicsEngine PRIVATE
