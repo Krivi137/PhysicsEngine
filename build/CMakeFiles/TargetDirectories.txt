@@ -1,3 +1,0 @@
-D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/PhysicsEngine.dir
-D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/edit_cache.dir
-D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/rebuild_cache.dir
