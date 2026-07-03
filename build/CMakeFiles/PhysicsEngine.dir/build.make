@@ -94,6 +94,9 @@ PhysicsEngine_EXTERNAL_OBJECTS =
 
 PhysicsEngine.exe: CMakeFiles/PhysicsEngine.dir/src/main.cpp.obj
 PhysicsEngine.exe: CMakeFiles/PhysicsEngine.dir/build.make
+PhysicsEngine.exe: C:/msys64/ucrt64/lib/libsfml-graphics.dll.a
+PhysicsEngine.exe: C:/msys64/ucrt64/lib/libsfml-window.dll.a
+PhysicsEngine.exe: C:/msys64/ucrt64/lib/libsfml-system.dll.a
 PhysicsEngine.exe: CMakeFiles/PhysicsEngine.dir/linkLibs.rsp
 PhysicsEngine.exe: CMakeFiles/PhysicsEngine.dir/objects1.rsp
 PhysicsEngine.exe: CMakeFiles/PhysicsEngine.dir/link.txt

@@ -7,6 +7,14 @@ set(CMAKE_DEPENDS_GENERATOR "MinGW Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
+  "C:/msys64/ucrt64/lib/cmake/SFML/SFMLConfig.cmake"
+  "C:/msys64/ucrt64/lib/cmake/SFML/SFMLConfigVersion.cmake"
+  "C:/msys64/ucrt64/lib/cmake/SFML/SFMLGraphicsSharedTargets-release.cmake"
+  "C:/msys64/ucrt64/lib/cmake/SFML/SFMLGraphicsSharedTargets.cmake"
+  "C:/msys64/ucrt64/lib/cmake/SFML/SFMLSystemSharedTargets-release.cmake"
+  "C:/msys64/ucrt64/lib/cmake/SFML/SFMLSystemSharedTargets.cmake"
+  "C:/msys64/ucrt64/lib/cmake/SFML/SFMLWindowSharedTargets-release.cmake"
+  "C:/msys64/ucrt64/lib/cmake/SFML/SFMLWindowSharedTargets.cmake"
   "C:/msys64/ucrt64/share/cmake/Modules/CMakeCCompiler.cmake.in"
   "C:/msys64/ucrt64/share/cmake/Modules/CMakeCCompilerABI.c"
   "C:/msys64/ucrt64/share/cmake/Modules/CMakeCInformation.cmake"

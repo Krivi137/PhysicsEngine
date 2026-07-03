@@ -13,7 +13,8 @@
 	{
 		"commands" : 
 		[
-			"add_executable"
+			"add_executable",
+			"target_link_libraries"
 		],
 		"files" : 
 		[
@@ -27,7 +28,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 8,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 14,
 				"parent" : 0
 			}
 		]
@@ -37,6 +44,21 @@
 		"major" : 2,
 		"minor" : 10
 	},
+	"compileDependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "SFML::Graphics::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "SFML::Window::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "SFML::System::@6890427a1f51a3e7e1df"
+		}
+	],
 	"compileGroups" : 
 	[
 		{
@@ -51,7 +73,7 @@
 			{
 				"backtraces" : 
 				[
-					1
+					2
 				],
 				"standard" : "20"
 			},
@@ -71,12 +93,42 @@
 				"role" : "flags"
 			},
 			{
+				"backtrace" : 2,
+				"fragment" : "C:\\msys64\\ucrt64\\lib\\libsfml-graphics.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "C:\\msys64\\ucrt64\\lib\\libsfml-window.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "C:\\msys64\\ucrt64\\lib\\libsfml-system.dll.a",
+				"role" : "libraries"
+			},
+			{
 				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
 				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
+	"linkLibraries" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "SFML::Graphics::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "SFML::Window::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "SFML::System::@6890427a1f51a3e7e1df"
+		}
+	],
 	"name" : "PhysicsEngine",
 	"nameOnDisk" : "PhysicsEngine.exe",
 	"paths" : 

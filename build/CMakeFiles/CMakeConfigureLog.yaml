@@ -2227,8 +2227,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-6xblpt"
-      binary: "D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-6xblpt"
+      source: "D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-0hspaw"
+      binary: "D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-0hspaw"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: ""
@@ -2238,13 +2238,13 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-6xblpt'
+        Change Dir: 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-0hspaw'
         
-        Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_7ebae/fast
-        C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_7ebae.dir\\build.make CMakeFiles/cmTC_7ebae.dir/build
-        mingw32-make[1]: Entering directory 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-6xblpt'
-        Building C object CMakeFiles/cmTC_7ebae.dir/CMakeCCompilerABI.c.obj
-        C:\\msys64\\ucrt64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_7ebae.dir\\CMakeCCompilerABI.c.obj -c C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c
+        Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_a1740/fast
+        C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_a1740.dir\\build.make CMakeFiles/cmTC_a1740.dir/build
+        mingw32-make[1]: Entering directory 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-0hspaw'
+        Building C object CMakeFiles/cmTC_a1740.dir/CMakeCCompilerABI.c.obj
+        C:\\msys64\\ucrt64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_a1740.dir\\CMakeCCompilerABI.c.obj -c C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\gcc.exe
         Target: x86_64-w64-mingw32
@@ -2252,8 +2252,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 16.1.0 (Rev5, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_7ebae.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_7ebae.dir\\'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_7ebae.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\salma\\AppData\\Local\\Temp\\ccio6sLj.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a1740.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_a1740.dir\\'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_a1740.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\salma\\AppData\\Local\\Temp\\ccEjCbxK.s
         GNU C23 (Rev5, Built by MSYS2 project) version 16.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 16.1.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.4.1, isl version isl-0.27-GMP
         
@@ -2271,14 +2271,14 @@ events:
          C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/include-fixed
         End of search list.
         Compiler executable checksum: 8ce1135867793bb4ef554b26be63cf3e
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_7ebae.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_7ebae.dir\\'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_7ebae.dir\\CMakeCCompilerABI.c.obj C:\\Users\\salma\\AppData\\Local\\Temp\\ccio6sLj.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a1740.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_a1740.dir\\'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_a1740.dir\\CMakeCCompilerABI.c.obj C:\\Users\\salma\\AppData\\Local\\Temp\\ccEjCbxK.s
         GNU assembler version 2.46.1 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.46.1
         COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_7ebae.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_7ebae.dir\\CMakeCCompilerABI.c.'
-        Linking C executable cmTC_7ebae.exe
-        C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_7ebae.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a1740.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_a1740.dir\\CMakeCCompilerABI.c.'
+        Linking C executable cmTC_a1740.exe
+        C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_a1740.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\gcc.exe
         COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe
@@ -2289,16 +2289,16 @@ events:
         gcc version 16.1.0 (Rev5, Built by MSYS2 project) 
         COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_7ebae.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_7ebae.'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\ccGCU2wt.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_7ebae.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_7ebae.dir/objects.a --no-whole-archive --out-implib libcmTC_7ebae.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a1740.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_a1740.'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\cc6HJtPT.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_a1740.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_a1740.dir/objects.a --no-whole-archive --out-implib libcmTC_a1740.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
         collect2 version 16.1.0
-        C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\ccGCU2wt.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_7ebae.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_7ebae.dir/objects.a --no-whole-archive --out-implib libcmTC_7ebae.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
+        C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\cc6HJtPT.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_a1740.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_a1740.dir/objects.a --no-whole-archive --out-implib libcmTC_a1740.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
         GNU ld (GNU Binutils) 2.46.1
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_7ebae.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_7ebae.'
-        C:\\msys64\\ucrt64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_7ebae.dir/objects.a
-        C:\\msys64\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_7ebae.dir/objects.a @CMakeFiles\\cmTC_7ebae.dir\\objects1.rsp
-        C:\\msys64\\ucrt64\\bin\\gcc.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_7ebae.dir/objects.a -Wl,--no-whole-archive -o cmTC_7ebae.exe -Wl,--out-implib,libcmTC_7ebae.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-6xblpt'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a1740.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_a1740.'
+        C:\\msys64\\ucrt64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_a1740.dir/objects.a
+        C:\\msys64\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_a1740.dir/objects.a @CMakeFiles\\cmTC_a1740.dir\\objects1.rsp
+        C:\\msys64\\ucrt64\\bin\\gcc.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_a1740.dir/objects.a -Wl,--no-whole-archive -o cmTC_a1740.exe -Wl,--out-implib,libcmTC_a1740.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-0hspaw'
         
       exitCode: 0
   -
@@ -2331,13 +2331,13 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-6xblpt']
+        ignore line: [Change Dir: 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-0hspaw']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_7ebae/fast]
-        ignore line: [C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_7ebae.dir\\build.make CMakeFiles/cmTC_7ebae.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-6xblpt']
-        ignore line: [Building C object CMakeFiles/cmTC_7ebae.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [C:\\msys64\\ucrt64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_7ebae.dir\\CMakeCCompilerABI.c.obj -c C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_a1740/fast]
+        ignore line: [C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_a1740.dir\\build.make CMakeFiles/cmTC_a1740.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-0hspaw']
+        ignore line: [Building C object CMakeFiles/cmTC_a1740.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [C:\\msys64\\ucrt64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_a1740.dir\\CMakeCCompilerABI.c.obj -c C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\gcc.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -2345,8 +2345,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 16.1.0 (Rev5  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_7ebae.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_7ebae.dir\\']
-        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_7ebae.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\salma\\AppData\\Local\\Temp\\ccio6sLj.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a1740.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_a1740.dir\\']
+        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_a1740.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\salma\\AppData\\Local\\Temp\\ccEjCbxK.s]
         ignore line: [GNU C23 (Rev5  Built by MSYS2 project) version 16.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 16.1.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.4.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2364,8 +2364,8 @@ events:
         ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/include-fixed]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 8ce1135867793bb4ef554b26be63cf3e]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_7ebae.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_7ebae.dir\\']
-        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_7ebae.dir\\CMakeCCompilerABI.c.obj C:\\Users\\salma\\AppData\\Local\\Temp\\ccio6sLj.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a1740.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_a1740.dir\\']
+        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_a1740.dir\\CMakeCCompilerABI.c.obj C:\\Users\\salma\\AppData\\Local\\Temp\\ccEjCbxK.s]
         ignore line: [GNU assembler version 2.46.1 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.46.1]
         ignore line: [COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/]
@@ -2376,9 +2376,9 @@ events:
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_7ebae.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_7ebae.dir\\CMakeCCompilerABI.c.']
-        ignore line: [Linking C executable cmTC_7ebae.exe]
-        ignore line: [C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_7ebae.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a1740.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_a1740.dir\\CMakeCCompilerABI.c.']
+        ignore line: [Linking C executable cmTC_a1740.exe]
+        ignore line: [C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_a1740.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\gcc.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe]
@@ -2396,13 +2396,13 @@ events:
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_7ebae.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_7ebae.']
-        link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\ccGCU2wt.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_7ebae.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_7ebae.dir/objects.a --no-whole-archive --out-implib libcmTC_7ebae.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a1740.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_a1740.']
+        link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\cc6HJtPT.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_a1740.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_a1740.dir/objects.a --no-whole-archive --out-implib libcmTC_a1740.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\ccGCU2wt.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\cc6HJtPT.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
@@ -2424,7 +2424,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_7ebae.exe] ==> ignore
+          arg [cmTC_a1740.exe] ==> ignore
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o]
           arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0]
@@ -2435,10 +2435,10 @@ events:
           arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../..] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../..]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\cmTC_7ebae.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\cmTC_a1740.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_7ebae.dll.a] ==> ignore
+          arg [libcmTC_a1740.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -2463,7 +2463,7 @@ events:
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
         ignore line: [collect2 version 16.1.0]
-        ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\ccGCU2wt.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_7ebae.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_7ebae.dir/objects.a --no-whole-archive --out-implib libcmTC_7ebae.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
+        ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\cc6HJtPT.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_a1740.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_a1740.dir/objects.a --no-whole-archive --out-implib libcmTC_a1740.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
         linker tool for 'C': C:/msys64/ucrt64/x86_64-w64-mingw32/bin/ld.exe
         remove lib [gcc_eh]
         remove lib [msvcrt]
@@ -2504,8 +2504,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-nzr6c5"
-      binary: "D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-nzr6c5"
+      source: "D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-6qd1bi"
+      binary: "D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-6qd1bi"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2516,13 +2516,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-nzr6c5'
+        Change Dir: 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-6qd1bi'
         
-        Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_35ef5/fast
-        C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_35ef5.dir\\build.make CMakeFiles/cmTC_35ef5.dir/build
-        mingw32-make[1]: Entering directory 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-nzr6c5'
-        Building CXX object CMakeFiles/cmTC_35ef5.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_35ef5.dir\\CMakeCXXCompilerABI.cpp.obj -c C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp
+        Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_1c4eb/fast
+        C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_1c4eb.dir\\build.make CMakeFiles/cmTC_1c4eb.dir/build
+        mingw32-make[1]: Entering directory 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-6qd1bi'
+        Building CXX object CMakeFiles/cmTC_1c4eb.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_1c4eb.dir\\CMakeCXXCompilerABI.cpp.obj -c C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\g++.exe
         Target: x86_64-w64-mingw32
@@ -2530,8 +2530,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 16.1.0 (Rev5, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_35ef5.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_35ef5.dir\\'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_35ef5.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\salma\\AppData\\Local\\Temp\\ccqytRVR.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1c4eb.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1c4eb.dir\\'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_1c4eb.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\salma\\AppData\\Local\\Temp\\ccTcuISd.s
         GNU C++20 (Rev5, Built by MSYS2 project) version 16.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 16.1.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.4.1, isl version isl-0.27-GMP
         
@@ -2555,14 +2555,14 @@ events:
          C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/include-fixed
         End of search list.
         Compiler executable checksum: c17fb94a142b10fdb3ae88ea0e837cbf
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_35ef5.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_35ef5.dir\\'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_35ef5.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\salma\\AppData\\Local\\Temp\\ccqytRVR.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1c4eb.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1c4eb.dir\\'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_1c4eb.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\salma\\AppData\\Local\\Temp\\ccTcuISd.s
         GNU assembler version 2.46.1 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.46.1
         COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_35ef5.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_35ef5.dir\\CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_35ef5.exe
-        C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_35ef5.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1c4eb.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1c4eb.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_1c4eb.exe
+        C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_1c4eb.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\g++.exe
         COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe
@@ -2573,16 +2573,16 @@ events:
         gcc version 16.1.0 (Rev5, Built by MSYS2 project) 
         COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_35ef5.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_35ef5.'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\cc4A2Vu0.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_35ef5.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_35ef5.dir/objects.a --no-whole-archive --out-implib libcmTC_35ef5.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1c4eb.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_1c4eb.'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\ccb6q5yn.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_1c4eb.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_1c4eb.dir/objects.a --no-whole-archive --out-implib libcmTC_1c4eb.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
         collect2 version 16.1.0
-        C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\cc4A2Vu0.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_35ef5.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_35ef5.dir/objects.a --no-whole-archive --out-implib libcmTC_35ef5.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
+        C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\ccb6q5yn.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_1c4eb.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_1c4eb.dir/objects.a --no-whole-archive --out-implib libcmTC_1c4eb.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
         GNU ld (GNU Binutils) 2.46.1
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_35ef5.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_35ef5.'
-        C:\\msys64\\ucrt64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_35ef5.dir/objects.a
-        C:\\msys64\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_35ef5.dir/objects.a @CMakeFiles\\cmTC_35ef5.dir\\objects1.rsp
-        C:\\msys64\\ucrt64\\bin\\g++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_35ef5.dir/objects.a -Wl,--no-whole-archive -o cmTC_35ef5.exe -Wl,--out-implib,libcmTC_35ef5.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-nzr6c5'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1c4eb.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_1c4eb.'
+        C:\\msys64\\ucrt64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_1c4eb.dir/objects.a
+        C:\\msys64\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_1c4eb.dir/objects.a @CMakeFiles\\cmTC_1c4eb.dir\\objects1.rsp
+        C:\\msys64\\ucrt64\\bin\\g++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_1c4eb.dir/objects.a -Wl,--no-whole-archive -o cmTC_1c4eb.exe -Wl,--out-implib,libcmTC_1c4eb.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-6qd1bi'
         
       exitCode: 0
   -
@@ -2621,13 +2621,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-nzr6c5']
+        ignore line: [Change Dir: 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-6qd1bi']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_35ef5/fast]
-        ignore line: [C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_35ef5.dir\\build.make CMakeFiles/cmTC_35ef5.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-nzr6c5']
-        ignore line: [Building CXX object CMakeFiles/cmTC_35ef5.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [C:\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_35ef5.dir\\CMakeCXXCompilerABI.cpp.obj -c C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): C:/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_1c4eb/fast]
+        ignore line: [C:/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_1c4eb.dir\\build.make CMakeFiles/cmTC_1c4eb.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/CMakeScratch/TryCompile-6qd1bi']
+        ignore line: [Building CXX object CMakeFiles/cmTC_1c4eb.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_1c4eb.dir\\CMakeCXXCompilerABI.cpp.obj -c C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\g++.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -2635,8 +2635,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 16.1.0 (Rev5  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_35ef5.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_35ef5.dir\\']
-        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_35ef5.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\salma\\AppData\\Local\\Temp\\ccqytRVR.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1c4eb.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1c4eb.dir\\']
+        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_1c4eb.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\salma\\AppData\\Local\\Temp\\ccTcuISd.s]
         ignore line: [GNU C++20 (Rev5  Built by MSYS2 project) version 16.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 16.1.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.4.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2660,8 +2660,8 @@ events:
         ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/include-fixed]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: c17fb94a142b10fdb3ae88ea0e837cbf]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_35ef5.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_35ef5.dir\\']
-        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_35ef5.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\salma\\AppData\\Local\\Temp\\ccqytRVR.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1c4eb.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1c4eb.dir\\']
+        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_1c4eb.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\salma\\AppData\\Local\\Temp\\ccTcuISd.s]
         ignore line: [GNU assembler version 2.46.1 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.46.1]
         ignore line: [COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/]
@@ -2672,9 +2672,9 @@ events:
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_35ef5.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_35ef5.dir\\CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_35ef5.exe]
-        ignore line: [C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_35ef5.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1c4eb.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1c4eb.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_1c4eb.exe]
+        ignore line: [C:\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_1c4eb.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\g++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe]
@@ -2692,13 +2692,13 @@ events:
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_35ef5.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_35ef5.']
-        link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\cc4A2Vu0.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_35ef5.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_35ef5.dir/objects.a --no-whole-archive --out-implib libcmTC_35ef5.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1c4eb.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_1c4eb.']
+        link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\ccb6q5yn.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_1c4eb.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_1c4eb.dir/objects.a --no-whole-archive --out-implib libcmTC_1c4eb.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\cc4A2Vu0.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\ccb6q5yn.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -2720,7 +2720,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_35ef5.exe] ==> ignore
+          arg [cmTC_1c4eb.exe] ==> ignore
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o]
           arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0]
@@ -2731,10 +2731,10 @@ events:
           arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../..] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../..]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\cmTC_35ef5.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\cmTC_1c4eb.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_35ef5.dll.a] ==> ignore
+          arg [libcmTC_1c4eb.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -2760,7 +2760,7 @@ events:
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
         ignore line: [collect2 version 16.1.0]
-        ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\cc4A2Vu0.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_35ef5.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_35ef5.dir/objects.a --no-whole-archive --out-implib libcmTC_35ef5.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
+        ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\salma\\AppData\\Local\\Temp\\ccb6q5yn.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_1c4eb.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_1c4eb.dir/objects.a --no-whole-archive --out-implib libcmTC_1c4eb.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
         linker tool for 'CXX': C:/msys64/ucrt64/x86_64-w64-mingw32/bin/ld.exe
         remove lib [msvcrt]
         remove lib [msvcrt]
@@ -2790,4 +2790,429 @@ events:
     message: |
       Running the CXX compiler's linker: "C:/msys64/ucrt64/x86_64-w64-mingw32/bin/ld.exe" "-v"
       GNU ld (GNU Binutils) 2.46.1
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/msys64/ucrt64/lib/cmake/SFML/SFMLConfig.cmake:93 (find_path)"
+      - "CMakeLists.txt:8 (find_package)"
+    mode: "path"
+    variable: "SFML_DOC_DIR"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "SFML.tag"
+    candidate_directories:
+      - "C:/msys64/ucrt64/bin/SFML/doc/"
+      - "C:/msys64/ucrt64/bin/share/doc/SFML/"
+      - "C:/msys64/ucrt64/bin/"
+      - "C:/msys64/usr/bin/SFML/doc/"
+      - "C:/msys64/usr/bin/share/doc/SFML/"
+      - "C:/msys64/usr/bin/"
+      - "C:/Windows/System32/SFML/doc/"
+      - "C:/Windows/System32/share/doc/SFML/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/SFML/doc/"
+      - "C:/Windows/share/doc/SFML/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/SFML/doc/"
+      - "C:/Windows/System32/wbem/share/doc/SFML/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/SFML/doc/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/share/doc/SFML/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/SFML/doc/"
+      - "C:/Windows/System32/OpenSSH/share/doc/SFML/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/SFML/doc/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/share/doc/SFML/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/SFML/doc/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/share/doc/SFML/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/nodejs/SFML/doc/"
+      - "C:/Program Files/nodejs/share/doc/SFML/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/SFML/doc/"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/share/doc/SFML/"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/"
+      - "C:/Program Files/Neovim/bin/SFML/doc/"
+      - "C:/Program Files/Neovim/bin/share/doc/SFML/"
+      - "C:/Program Files/Neovim/bin/"
+      - "C:/Program Files/dotnet/SFML/doc/"
+      - "C:/Program Files/dotnet/share/doc/SFML/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Git/cmd/SFML/doc/"
+      - "C:/Program Files/Git/cmd/share/doc/SFML/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Users/salma/AppData/Local/Programs/Python/Python313/Scripts/SFML/doc/"
+      - "C:/Users/salma/AppData/Local/Programs/Python/Python313/Scripts/share/doc/SFML/"
+      - "C:/Users/salma/AppData/Local/Programs/Python/Python313/Scripts/"
+      - "C:/Users/salma/AppData/Local/Programs/Python/Python313/SFML/doc/"
+      - "C:/Users/salma/AppData/Local/Programs/Python/Python313/share/doc/SFML/"
+      - "C:/Users/salma/AppData/Local/Programs/Python/Python313/"
+      - "C:/Users/salma/AppData/Local/Microsoft/WindowsApps/SFML/doc/"
+      - "C:/Users/salma/AppData/Local/Microsoft/WindowsApps/share/doc/SFML/"
+      - "C:/Users/salma/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/salma/AppData/Local/spicetify/SFML/doc/"
+      - "C:/Users/salma/AppData/Local/spicetify/share/doc/SFML/"
+      - "C:/Users/salma/AppData/Local/spicetify/"
+      - "C:/Users/salma/AppData/Local/Programs/Microsoft VS Code/bin/SFML/doc/"
+      - "C:/Users/salma/AppData/Local/Programs/Microsoft VS Code/bin/share/doc/SFML/"
+      - "C:/Users/salma/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/salma/AppData/Roaming/npm/SFML/doc/"
+      - "C:/Users/salma/AppData/Roaming/npm/share/doc/SFML/"
+      - "C:/Users/salma/AppData/Roaming/npm/"
+      - "D:/IIT KANPUR/P CLUB/flutter/bin/SFML/doc/"
+      - "D:/IIT KANPUR/P CLUB/flutter/bin/share/doc/SFML/"
+      - "D:/IIT KANPUR/P CLUB/flutter/bin/"
+      - "C:/msys64/ucrt64/include/SFML/doc/"
+      - "C:/msys64/ucrt64/include/share/doc/SFML/"
+      - "C:/msys64/ucrt64/include/"
+      - "C:/msys64/ucrt64/SFML/doc/"
+      - "C:/msys64/ucrt64/share/doc/SFML/"
+      - "C:/msys64/ucrt64/"
+      - "C:/Program Files/include/SFML/doc/"
+      - "C:/Program Files/include/share/doc/SFML/"
+      - "C:/Program Files/include/"
+      - "C:/Program Files/SFML/doc/"
+      - "C:/Program Files/share/doc/SFML/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/include/SFML/doc/"
+      - "C:/Program Files (x86)/include/share/doc/SFML/"
+      - "C:/Program Files (x86)/include/"
+      - "C:/Program Files (x86)/SFML/doc/"
+      - "C:/Program Files (x86)/share/doc/SFML/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files (x86)/PhysicsEngine/include/SFML/doc/"
+      - "C:/Program Files (x86)/PhysicsEngine/include/share/doc/SFML/"
+      - "C:/Program Files (x86)/PhysicsEngine/include/"
+      - "C:/Program Files (x86)/PhysicsEngine/SFML/doc/"
+      - "C:/Program Files (x86)/PhysicsEngine/share/doc/SFML/"
+      - "C:/Program Files (x86)/PhysicsEngine/"
+      - "C:/msys64/ucrt64/SFML/doc/"
+      - "C:/msys64/ucrt64/share/doc/SFML/"
+      - "C:/msys64/ucrt64/"
+      - "C:/Users/salma/Library/Frameworks/SFML/doc/"
+      - "C:/Users/salma/Library/Frameworks/share/doc/SFML/"
+      - "C:/Users/salma/Library/Frameworks/"
+      - "/Library/Frameworks/SFML/doc/"
+      - "/Library/Frameworks/share/doc/SFML/"
+      - "/Library/Frameworks/"
+      - "/usr/local/SFML/doc/"
+      - "/usr/local/share/doc/SFML/"
+      - "/usr/local/"
+      - "/usr/SFML/doc/"
+      - "/usr/share/doc/SFML/"
+      - "/usr/"
+      - "/sw/SFML/doc/"
+      - "/sw/share/doc/SFML/"
+      - "/sw/"
+      - "/opt/local/SFML/doc/"
+      - "/opt/local/share/doc/SFML/"
+      - "/opt/local/"
+      - "/opt/csw/SFML/doc/"
+      - "/opt/csw/share/doc/SFML/"
+      - "/opt/csw/"
+      - "/opt/SFML/doc/"
+      - "/opt/share/doc/SFML/"
+      - "/opt/"
+    searched_directories:
+      - "C:/msys64/ucrt64/bin/SFML/doc/SFML.tag"
+      - "C:/msys64/ucrt64/bin/share/doc/SFML/SFML.tag"
+      - "C:/msys64/ucrt64/bin/SFML.tag"
+      - "C:/msys64/usr/bin/SFML/doc/SFML.tag"
+      - "C:/msys64/usr/bin/share/doc/SFML/SFML.tag"
+      - "C:/msys64/usr/bin/SFML.tag"
+      - "C:/Windows/System32/SFML/doc/SFML.tag"
+      - "C:/Windows/System32/share/doc/SFML/SFML.tag"
+      - "C:/Windows/System32/SFML.tag"
+      - "C:/Windows/SFML/doc/SFML.tag"
+      - "C:/Windows/share/doc/SFML/SFML.tag"
+      - "C:/Windows/SFML.tag"
+      - "C:/Windows/System32/wbem/SFML/doc/SFML.tag"
+      - "C:/Windows/System32/wbem/share/doc/SFML/SFML.tag"
+      - "C:/Windows/System32/wbem/SFML.tag"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/SFML/doc/SFML.tag"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/share/doc/SFML/SFML.tag"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/SFML.tag"
+      - "C:/Windows/System32/OpenSSH/SFML/doc/SFML.tag"
+      - "C:/Windows/System32/OpenSSH/share/doc/SFML/SFML.tag"
+      - "C:/Windows/System32/OpenSSH/SFML.tag"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/SFML/doc/SFML.tag"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/share/doc/SFML/SFML.tag"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/SFML.tag"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/SFML/doc/SFML.tag"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/share/doc/SFML/SFML.tag"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/SFML.tag"
+      - "C:/Program Files/nodejs/SFML/doc/SFML.tag"
+      - "C:/Program Files/nodejs/share/doc/SFML/SFML.tag"
+      - "C:/Program Files/nodejs/SFML.tag"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/SFML/doc/SFML.tag"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/share/doc/SFML/SFML.tag"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/SFML.tag"
+      - "C:/Program Files/Neovim/bin/SFML/doc/SFML.tag"
+      - "C:/Program Files/Neovim/bin/share/doc/SFML/SFML.tag"
+      - "C:/Program Files/Neovim/bin/SFML.tag"
+      - "C:/Program Files/dotnet/SFML/doc/SFML.tag"
+      - "C:/Program Files/dotnet/share/doc/SFML/SFML.tag"
+      - "C:/Program Files/dotnet/SFML.tag"
+      - "C:/Program Files/Git/cmd/SFML/doc/SFML.tag"
+      - "C:/Program Files/Git/cmd/share/doc/SFML/SFML.tag"
+      - "C:/Program Files/Git/cmd/SFML.tag"
+      - "C:/Users/salma/AppData/Local/Programs/Python/Python313/Scripts/SFML/doc/SFML.tag"
+      - "C:/Users/salma/AppData/Local/Programs/Python/Python313/Scripts/share/doc/SFML/SFML.tag"
+      - "C:/Users/salma/AppData/Local/Programs/Python/Python313/Scripts/SFML.tag"
+      - "C:/Users/salma/AppData/Local/Programs/Python/Python313/SFML/doc/SFML.tag"
+      - "C:/Users/salma/AppData/Local/Programs/Python/Python313/share/doc/SFML/SFML.tag"
+      - "C:/Users/salma/AppData/Local/Programs/Python/Python313/SFML.tag"
+      - "C:/Users/salma/AppData/Local/Microsoft/WindowsApps/SFML/doc/SFML.tag"
+      - "C:/Users/salma/AppData/Local/Microsoft/WindowsApps/share/doc/SFML/SFML.tag"
+      - "C:/Users/salma/AppData/Local/Microsoft/WindowsApps/SFML.tag"
+      - "C:/Users/salma/AppData/Local/spicetify/SFML/doc/SFML.tag"
+      - "C:/Users/salma/AppData/Local/spicetify/share/doc/SFML/SFML.tag"
+      - "C:/Users/salma/AppData/Local/spicetify/SFML.tag"
+      - "C:/Users/salma/AppData/Local/Programs/Microsoft VS Code/bin/SFML/doc/SFML.tag"
+      - "C:/Users/salma/AppData/Local/Programs/Microsoft VS Code/bin/share/doc/SFML/SFML.tag"
+      - "C:/Users/salma/AppData/Local/Programs/Microsoft VS Code/bin/SFML.tag"
+      - "C:/Users/salma/AppData/Roaming/npm/SFML/doc/SFML.tag"
+      - "C:/Users/salma/AppData/Roaming/npm/share/doc/SFML/SFML.tag"
+      - "C:/Users/salma/AppData/Roaming/npm/SFML.tag"
+      - "D:/IIT KANPUR/P CLUB/flutter/bin/SFML/doc/SFML.tag"
+      - "D:/IIT KANPUR/P CLUB/flutter/bin/share/doc/SFML/SFML.tag"
+      - "D:/IIT KANPUR/P CLUB/flutter/bin/SFML.tag"
+      - "C:/msys64/ucrt64/include/SFML/doc/SFML.tag"
+      - "C:/msys64/ucrt64/include/share/doc/SFML/SFML.tag"
+      - "C:/msys64/ucrt64/include/SFML.tag"
+      - "C:/msys64/ucrt64/SFML/doc/SFML.tag"
+      - "C:/msys64/ucrt64/share/doc/SFML/SFML.tag"
+      - "C:/msys64/ucrt64/SFML.tag"
+      - "C:/Program Files/include/SFML/doc/SFML.tag"
+      - "C:/Program Files/include/share/doc/SFML/SFML.tag"
+      - "C:/Program Files/include/SFML.tag"
+      - "C:/Program Files/SFML/doc/SFML.tag"
+      - "C:/Program Files/share/doc/SFML/SFML.tag"
+      - "C:/Program Files/SFML.tag"
+      - "C:/Program Files (x86)/include/SFML/doc/SFML.tag"
+      - "C:/Program Files (x86)/include/share/doc/SFML/SFML.tag"
+      - "C:/Program Files (x86)/include/SFML.tag"
+      - "C:/Program Files (x86)/SFML/doc/SFML.tag"
+      - "C:/Program Files (x86)/share/doc/SFML/SFML.tag"
+      - "C:/Program Files (x86)/SFML.tag"
+      - "C:/Program Files (x86)/PhysicsEngine/include/SFML/doc/SFML.tag"
+      - "C:/Program Files (x86)/PhysicsEngine/include/share/doc/SFML/SFML.tag"
+      - "C:/Program Files (x86)/PhysicsEngine/include/SFML.tag"
+      - "C:/Program Files (x86)/PhysicsEngine/SFML/doc/SFML.tag"
+      - "C:/Program Files (x86)/PhysicsEngine/share/doc/SFML/SFML.tag"
+      - "C:/Program Files (x86)/PhysicsEngine/SFML.tag"
+      - "C:/msys64/ucrt64/SFML/doc/SFML.tag"
+      - "C:/msys64/ucrt64/share/doc/SFML/SFML.tag"
+      - "C:/msys64/ucrt64/SFML.tag"
+      - "C:/Users/salma/Library/Frameworks/SFML/doc/SFML.tag"
+      - "C:/Users/salma/Library/Frameworks/share/doc/SFML/SFML.tag"
+      - "C:/Users/salma/Library/Frameworks/SFML.tag"
+      - "/Library/Frameworks/SFML/doc/SFML.tag"
+      - "/Library/Frameworks/share/doc/SFML/SFML.tag"
+      - "/Library/Frameworks/SFML.tag"
+      - "/usr/local/SFML/doc/SFML.tag"
+      - "/usr/local/share/doc/SFML/SFML.tag"
+      - "/usr/local/SFML.tag"
+      - "/usr/SFML/doc/SFML.tag"
+      - "/usr/share/doc/SFML/SFML.tag"
+      - "/usr/SFML.tag"
+      - "/sw/SFML/doc/SFML.tag"
+      - "/sw/share/doc/SFML/SFML.tag"
+      - "/sw/SFML.tag"
+      - "/opt/local/SFML/doc/SFML.tag"
+      - "/opt/local/share/doc/SFML/SFML.tag"
+      - "/opt/local/SFML.tag"
+      - "/opt/csw/SFML/doc/SFML.tag"
+      - "/opt/csw/share/doc/SFML/SFML.tag"
+      - "/opt/csw/SFML.tag"
+      - "/opt/SFML/doc/SFML.tag"
+      - "/opt/share/doc/SFML/SFML.tag"
+      - "/opt/SFML.tag"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\usr\\bin"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/Program Files/Cloudflare/Cloudflare WARP/"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:/Program Files/dotnet/"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:/Users/salma/AppData/Local/Programs/Python/Python313/Scripts/"
+        - "C:\\Users\\salma\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:/Users/salma/AppData/Local/Microsoft/WindowsApps"
+        - "C:\\Users\\salma\\AppData\\Local\\spicetify"
+        - "C:/Users/salma/AppData/Local/Microsoft/WindowsApps"
+        - "C:\\Users\\salma\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:/Users/salma/AppData/Roaming/npm"
+        - "D:\\IIT KANPUR\\P CLUB\\flutter\\bin"
+        - "C:/msys64/ucrt64/bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/PhysicsEngine"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/msys64/ucrt64"
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/msys64/ucrt64"
+        - "C:/Program Files (x86)/PhysicsEngine"
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "CMakeLists.txt:8 (find_package)"
+    name: "SFML"
+    components:
+      -
+        name: "Graphics"
+        required: true
+        found: false
+      -
+        name: "Window"
+        required: true
+        found: false
+      -
+        name: "System"
+        required: true
+        found: false
+    configs:
+      -
+        filename: "SFML.cps"
+        kind: "cps"
+      -
+        filename: "sfml.cps"
+        kind: "cps"
+      -
+        filename: "SFMLConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "sfml-config.cmake"
+        kind: "cmake"
+    version_request:
+      version: "3"
+      version_complete: "3"
+      exact: false
+    settings:
+      required: "required_explicit"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "SFML"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: true
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/pkgRedirects/SFMLConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/pkgRedirects/sfml-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/pkgRedirects/lib/cps/SFML.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/pkgRedirects/lib/cps/sfml.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/pkgRedirects/share/cps/SFML.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/IIT KANPUR/P CLUB/PhysicsEngine/build/CMakeFiles/pkgRedirects/share/cps/sfml.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/SFMLConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/sfml-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cps/SFML.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/lib/cps/sfml.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/share/cps/SFML.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/share/cps/sfml.cps"
+        mode: "cps"
+        reason: "no_exist"
+    found:
+      path: "C:/msys64/ucrt64/lib/cmake/SFML/SFMLConfig.cmake"
+      mode: "config"
+      version: "3.0.2"
+    search_context:
+      ENV{PATH}:
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\msys64\\usr\\bin"
+        - "C:/Windows/system32"
+        - "C:\\Windows"
+        - "C:/Windows/System32/Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:/Windows/System32/OpenSSH/"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/Program Files/Cloudflare/Cloudflare WARP/"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:/Program Files/dotnet/"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:/Users/salma/AppData/Local/Programs/Python/Python313/Scripts/"
+        - "C:\\Users\\salma\\AppData\\Local\\Programs\\Python\\Python313\\"
+        - "C:/Users/salma/AppData/Local/Microsoft/WindowsApps"
+        - "C:\\Users\\salma\\AppData\\Local\\spicetify"
+        - "C:/Users/salma/AppData/Local/Microsoft/WindowsApps"
+        - "C:\\Users\\salma\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:/Users/salma/AppData/Roaming/npm"
+        - "D:\\IIT KANPUR\\P CLUB\\flutter\\bin"
+        - "C:/msys64/ucrt64/bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/PhysicsEngine"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/msys64/ucrt64"
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/msys64/ucrt64"
+        - "C:/Program Files (x86)/PhysicsEngine"
 ...
