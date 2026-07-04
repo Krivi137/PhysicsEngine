@@ -1,13 +1,17 @@
 #include "Engine/Application.hpp"
 #include "Math/Vec2.hpp"
+#include "Physics/Particle.hpp"
 #include<iostream>
 int main()
 {
-    Vec2 a(3.0f, 4.0f);
-    std::cout << a.lengthSquared() << '\n';
-    std::cout << a.length() << '\n';
-    a.normalize();
-    std::cout << "(" << a.x << " " << a.y << ")" << '\n';
+    Vec2 pos(3.0f, 4.0f);
+    Vec2 vel(3.0f, 4.0f);
+    float mass = 0.5f;
+
+    Particle p(pos, vel, mass);
+
+    std::cout<< p.inverseMass;
+
     Application app;
     app.run();
 

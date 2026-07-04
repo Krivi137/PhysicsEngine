@@ -11,6 +11,7 @@ add_executable(PhysicsEngine
     src/main.cpp
     src/Engine/Application.cpp
     src/Math/Vec2.cpp
+    src/Physics/Particle.cpp
 )
 
 target_include_directories(PhysicsEngine PRIVATE
