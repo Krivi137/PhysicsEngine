@@ -1,4 +1,5 @@
 #include "Math/Vec2.hpp"
+#include <cmath>
 
 //=====================================
 // Default Constructor
@@ -74,4 +75,32 @@ Vec2& Vec2::operator/=(float scalar)
     y /= scalar;
 
     return *this;
+}
+
+//=====================================
+// Vector Operations
+//=====================================
+
+float Vec2::lengthSquared() const
+{
+    return x*x + y*y;
+}
+
+float Vec2::length() const
+{
+    return std::sqrt(lengthSquared());
+}
+
+Vec2 Vec2::normalized() const
+{
+    return *this/length();
+}
+
+void Vec2::normalize()
+{
+    *this = normalized();
+}
+
+float Vec2::dot(const Vec2& other) const{
+    return x*other.x + y*other.y;
 }

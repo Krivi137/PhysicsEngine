@@ -24,7 +24,13 @@ public:
 
     // ===== Vector Operations =====
 
+    float lengthSquared() const;
+    float length() const;
 
+    Vec2 normalized() const;
+    void normalize();
+
+    float dot(const Vec2& other) const;
 
     float x;
     float y;
