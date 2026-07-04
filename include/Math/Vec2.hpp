@@ -22,21 +22,6 @@ public:
     Vec2& operator*=(float scalar);
     Vec2& operator/=(float scalar);
 
-    Vec2 operator+(const Vec2& other) const{
-        return Vec2(x+other.x, y+other.y);
-    }
-
-    Vec2 operator-(const Vec2& other) const{
-        return Vec2(x-other.x, y-other.y);
-    }
-
-    Vec2 operator*(float scaler) const{
-        return Vec2(x*scaler, y*scaler);
-    }
-
-    Vec2 operator/(float scaler) const{
-        return Vec2(x/scaler, y/scaler);
-    }
     // ===== Vector Operations =====
 
 
