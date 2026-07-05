@@ -1,5 +1,7 @@
 #include "Physics/Particle.hpp"
 
+// ===== Constructors =====
+
 Particle::Particle()
     : position(0.0f, 0.0f),
       velocity(0.0f, 0.0f),
@@ -22,4 +24,21 @@ Particle::Particle(
       mass(mass),
       inverseMass(mass > 0.0f ? 1.0f / mass : 0.0f)
 {
+}
+
+ // ===== Physics =====
+
+void Particle::applyForce(const Vec2& force){
+    forceAccumulator+=force;
+}
+
+void Particle::clearForces(){
+    forceAccumulator=Vec2();
+}
+
+void Particle::integrate(float dt){
+    acceleration = forceAccumulator * inverseMass;
+    velocity += acceleration * dt;
+    position += velocity * dt;
+    clearForces();
 }

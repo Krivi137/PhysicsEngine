@@ -10,7 +10,7 @@ int main()
 
     Particle p(pos, vel, mass);
 
-    std::cout<< p.inverseMass;
+    std::cout<< p.velocity.x;
 
     Application app;
     app.run();

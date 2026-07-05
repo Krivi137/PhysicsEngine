@@ -17,6 +17,10 @@ public:
 
     // ===== Physics =====
 
+    void applyForce(const Vec2& force);
+    void clearForces();
+    void integrate(float dt);
+
 public:
 
     // ===== State =====
