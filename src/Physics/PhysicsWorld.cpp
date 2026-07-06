@@ -1,0 +1,35 @@
+#include "Physics/PhysicsWorld.hpp"
+
+// ===== Constructors =====
+
+PhysicsWorld::PhysicsWorld()
+    :gravity(0.0f,9.81f)
+{
+}
+
+// ===== Particle Management =====
+
+Particle& PhysicsWorld::createParticle(
+    const Vec2& position,
+    const Vec2& velocity,
+    float mass
+)
+{
+    particles.emplace_back(position, velocity, mass);
+
+    return particles.back();
+}
+
+// ===== Simulation =====
+
+void PhysicsWorld::step(float dt)
+{
+    for (Particle& particle : particles)
+    {
+        Vec2 gravityForce= gravity * particle.mass;
+        particle.applyForce(gravityForce);
+        particle.integrate(dt);
+    }
+}
+
+// ===== World State =====
