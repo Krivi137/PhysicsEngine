@@ -3,7 +3,7 @@
 // ===== Constructors =====
 
 PhysicsWorld::PhysicsWorld()
-    :gravity(0.0f,9.81f)
+    :gravity(0.0f,-9.81f)
 {
 }
 
@@ -18,6 +18,11 @@ Particle& PhysicsWorld::createParticle(
     particles.emplace_back(position, velocity, mass);
 
     return particles.back();
+}
+
+const std::vector<Particle>& PhysicsWorld::getParticles() const
+{
+    return particles;
 }
 
 // ===== Simulation =====

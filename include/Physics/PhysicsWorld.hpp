@@ -19,6 +19,8 @@ public:
         float mass
     );
 
+    const std::vector<Particle>& getParticles() const;
+    
     // ===== Simulation =====
 
     void step(float dt);
