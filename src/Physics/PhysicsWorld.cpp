@@ -3,7 +3,8 @@
 // ===== Constructors =====
 
 PhysicsWorld::PhysicsWorld()
-    :gravity(0.0f,-9.81f)
+    :gravity(0.0f,-9.81f),
+    wind(40.0f,0.0)
 {
 }
 
@@ -33,6 +34,7 @@ void PhysicsWorld::step(float dt)
     {
         Vec2 gravityForce= gravity * particle.mass;
         particle.applyForce(gravityForce);
+        particle.applyForce(wind);
         particle.integrate(dt);
     }
 }

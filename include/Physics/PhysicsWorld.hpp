@@ -20,7 +20,7 @@ public:
     );
 
     const std::vector<Particle>& getParticles() const;
-    
+
     // ===== Simulation =====
 
     void step(float dt);
@@ -31,4 +31,5 @@ private:
 
     std::vector<Particle> particles;
     Vec2 gravity;
+    Vec2 wind;
 };
